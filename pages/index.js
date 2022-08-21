@@ -14,7 +14,7 @@ export default function Home({ pizzaList }) {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Featured />
-      <PizzaList pizzaList={pizzaList} />
+      {/*<PizzaList pizzaList={pizzaList} />*/}
     </div>
   );
 }
